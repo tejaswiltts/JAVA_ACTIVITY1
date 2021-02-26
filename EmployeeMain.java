@@ -19,4 +19,8 @@ System.out.println("invalid");
 e.setMobile(mobile);
 e.displayEmployee();
 }
+  System.out.println("Employee Details");
+System.out.println("Name : "+e.getName());
+System.out.println("Adress : "+e.getAddress());
+System.out.println("Mobile : "+e.getMobile());
 }
