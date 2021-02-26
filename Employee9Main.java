@@ -1,11 +1,11 @@
 import java.util.Scanner;
 
-public class EmployeeMain5 {
+public class EmployeeMain9 {
 
 	public static void main(String[] args) {
 		Scanner sc =new Scanner(System.in);
-		Employee5 e=new Employee5();
-		System.out.println("Enter the name :");
+		Employee5 e=new Employee9();
+		System.out.println("Enter name :");
 		String name2=sc.nextLine();
 		e.setName(name2);
 		System.out.println("Enter Address :");
