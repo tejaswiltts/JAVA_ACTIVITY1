@@ -1,5 +1,5 @@
 import java.util.*;
-public class Numcount
+public class NumberCount
 {
     static void findElementCount(int a[],int n,int x)
     {
